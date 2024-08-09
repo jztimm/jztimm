@@ -9,7 +9,7 @@ I'm a Software Engineer based in New Jersey, with a rich background in both fron
 * 🌍  I'm based in New Jersey
 * 🖥️  See my portfolio at [JzTimm](http://jztimm-hpd1.vercel.app)
 * ✉️  You can contact me at [jztimm@gmail.com](mailto:jztimm@gmail.com)
-* 🚀  I'm currently working on [DevFlow](http://github.com/jztimm/Stack_Overflow_Nextjs14)
+* 🚀  I'm currently working on [Horizon Banking](https://github.com/jztimm/Horizon-Banking)
 * 🧠  I'm learning Next.js and Tailwind CSS
 * 🤝  I'm open to collaborating on anything open source, interesting, anything with Next.js
 * ⚡  Fun fact: I own 8 dogs. 3 Paillons, 4 Pomeranians and 1 Rat Terrier/Chihuahua mix
@@ -18,6 +18,7 @@ I'm a Software Engineer based in New Jersey, with a rich background in both fron
   
 ##  Technologies Used: 
 
+<br/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)"/>
@@ -42,7 +43,7 @@ I'm a Software Engineer based in New Jersey, with a rich background in both fron
 <br/>
 <br/>
 
-### Socials
+## Socials
 
 <p>
   <a href="https://www.github.com/jztimm" target="_blank" rel="noreferrer">
@@ -72,11 +73,7 @@ I'm a Software Engineer based in New Jersey, with a rich background in both fron
 
 <br/>
 
-### Badges
-
-<br/>
-
-<b>My GitHub Stats</b>
+## My GitHub Stats
 
 <div>
   <a href="http://www.github.com/jztimm">
