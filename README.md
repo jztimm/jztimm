@@ -12,7 +12,7 @@ I'm a Software Engineer based in New Jersey, with a rich background in both fron
 * 🚀  I'm currently working on [Horizon Banking](https://github.com/jztimm/Horizon-Banking)
 * 🧠  I'm learning Next.js and Tailwind CSS
 * 🤝  I'm open to collaborating on anything open source, interesting, anything with Next.js
-* ⚡  Fun fact: I own 8 dogs. 3 Paillons, 4 Pomeranians and 1 Rat Terrier/Chihuahua mix
+* ⚡  Fun fact: I own 9 dogs. 3 Papillons, 5 Pomeranians and 1 Rat Terrier/Chihuahua mix
 
 <div align="center">
   
