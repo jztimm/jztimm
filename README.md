@@ -4,14 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Software Engineer
 -----------------
 
-I'm a Software Engineer based in New Jersey, with a rich background in both front-end and back-end development. My journey in software development began at The Flatiron School, where I earned my certificate in Software Engineering. Since then, I've been continuously expanding my skills and expertise, currently focusing on mastering Next.js and Tailwind CSS.
+I'm a Software Engineer based in New Jersey, with a rich background in both front-end and back-end development. My journey in software development began at LaGuardia Community College, where I studied Computer Science. From there, enrolled in App Academy and The Flatiron School for Software Engineering where i really took off in learning software developement. Since then, I've worked at IBM, Meta, and a government role at FTC. I've been continuously expanding my skills and expertise, currently focusing on React/Next.js and Tailwind CSS.
 
-* 🌍  I'm based in New Jersey
-* 🖥️  See my portfolio at [JzTimm](http://jztimm-hpd1.vercel.app)
+I will be deploying 3 major Full Stack apps soon.
+
+* 🌍  I'm based in New Jersey (unfortunately)
+* 🖥️  See my portfolio at [JzTimm](http://www.jztimm.com)
 * ✉️  You can contact me at [jztimm@gmail.com](mailto:jztimm@gmail.com)
-* 🚀  I'm currently working on [Horizon Banking](https://github.com/jztimm/Horizon-Banking)
-* 🧠  I'm learning Next.js and Tailwind CSS
-* 🤝  I'm open to collaborating on anything open source, interesting, anything with Next.js
+* 🚀  I'm currently working on [My Foral Vault]([https://](https://flora-vault.vercel.app))
+* 🧠  I'm using Next.js, Tailwind CSS, Node, Express & Prisma
+* 🤝  I'm open to collaborating on anything open source, interesting, anything with React or Next.js
 * ⚡  Fun fact: I own 9 dogs and 6 cockatiels. 3 Papillons, 5 Pomeranians and 1 Rat Terrier/Chihuahua mix
 
 <div align="center">
