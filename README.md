@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Software Engineer
 -----------------
 
-I'm a Software Engineer based in New Jersey, with a rich background in both front-end and back-end development. My journey in software development began at LaGuardia Community College, where I studied Computer Science. From there, enrolled in App Academy and The Flatiron School for Software Engineering where i really took off in learning software developement. Since then, I've worked at IBM, Meta, and a government role at FTC. I've been continuously expanding my skills and expertise, currently focusing on React/Next.js and Tailwind CSS.
+I'm a Software Engineer born and raised in New York, based in New Jersey now, with a rich background in both front-end and back-end development. My journey in software development began at LaGuardia Community College, where I studied Computer Science. From there, I enrolled in App Academy and The Flatiron School for Software Engineering where i really took off in learning software developement. Since then, I've worked at IBM, Meta, and a government role at FTC. I've been continuously expanding my skills and expertise, currently focusing on React/Next.js and Tailwind CSS.
 
 I will be deploying 3 major Full Stack apps soon.
 
