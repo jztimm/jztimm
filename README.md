@@ -11,7 +11,7 @@ I will be deploying 3 major Full Stack apps soon.
 * 🌍  I'm based in New Jersey (unfortunately)
 * 🖥️  See my portfolio at [JzTimm](http://www.jztimm.com)
 * ✉️  You can contact me at [jztimm@gmail.com](mailto:jztimm@gmail.com)
-* 🚀  I'm currently working on [My Foral Vault]([https://](https://flora-vault.vercel.app))
+* 🚀  I'm currently working on [MyForalVault](https://flora-vault.vercel.app)
 * 🧠  I'm using Next.js, Tailwind CSS, Node, Express & Prisma
 * 🤝  I'm open to collaborating on anything open source, interesting, anything with React or Next.js
 * ⚡  Fun fact: I own 9 dogs and 6 cockatiels. 3 Papillons, 5 Pomeranians and 1 Rat Terrier/Chihuahua mix
